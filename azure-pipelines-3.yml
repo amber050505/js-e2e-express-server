@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: localhost
+  name: LAPTOP-B4NCTKBP
 
 steps:
 - script: echo Hello, world!

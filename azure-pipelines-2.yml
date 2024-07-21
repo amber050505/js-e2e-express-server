@@ -1,0 +1,6 @@
+pool:
+  name: MyAgentPool
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a simple shell command'
